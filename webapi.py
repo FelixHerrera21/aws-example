@@ -7,7 +7,7 @@ def hello_world():
     return '¡Hola mundo, madafakas!'
 
 if __name__ == '__main__':
-    app.run(port=80)
+    app.run()
 
 
 #export FLASK_APP=webapi.py
